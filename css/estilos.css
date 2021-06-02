@@ -22,7 +22,11 @@ body {
     background-color: rgb(240,240,240);
     cursor: default;
 }
-
+.menu{
+    background-color: aquamarine;
+    height: 40px;
+    justify-content: left;
+}
 .col:hover {
     background-color: rgb(216, 216, 216);
 }
@@ -71,13 +75,13 @@ body {
     margin-bottom: -4px;
 }
 
-.cabecalio > div > h3 {
+.cabecera > div > h3 {
     font-weight: 400;
     font-size: 25px;
     margin: 5px;
 }
 
-.cabecalio > div > h4 {
+.cabecera> div > h4 {
     font-weight: 500;
     font-size: 18px;
     margin: 5px;
